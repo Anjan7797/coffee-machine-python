@@ -56,9 +56,3 @@ while machine_is_on:
     else:
         print("Please choose a valid option.")
 
-
-# history example
-# "history": [
-#     {"drink": "latte", "cost": 2.5},
-#     {"drink": "espresso", "cost": 1.5}
-# ]
