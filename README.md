@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/python-3.13-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 # ☕ Coffee Machine Simulator
 
 This is a simple command-line coffee machine project I built while learning Python.  
@@ -144,7 +147,9 @@ Machine has successfully switch off.
 
 ## 📌 Note
 
-This project was built as part of my Python learning journey to strengthen.
+## 📌 Note
+
+This project was built as part of my Python learning journey to strengthen problem-solving and understand how to structure real-world programs.
 
 ## 👨‍💻 Author
 
