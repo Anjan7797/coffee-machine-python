@@ -1,0 +1,22 @@
+{
+    "resources": {
+        "water": 2800,
+        "milk": 4950,
+        "coffee": 1034
+    },
+    "money": 7.0,
+    "history": [
+        {
+            "drink": "cappuccino",
+            "cost": 3.0
+        },
+        {
+            "drink": "latte",
+            "cost": 2.5
+        },
+        {
+            "drink": "espresso",
+            "cost": 1.5
+        }
+    ]
+}

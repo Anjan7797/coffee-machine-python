@@ -12,8 +12,9 @@ It simulates how a real coffee machine works — handling resources, taking paym
 - Returns change if extra money is given
 - Shows current resources using a report option
 - Refill feature to add more water, milk, and coffee
+- Stores data persistently using JSON (resources, profit, history)
 
-> I also added a refill feature to make the machine more practical.
+> While building this project, I also added refill, history feature to make the machine more practical.
 
 
 ## 🛠️ Tech Used
@@ -31,6 +32,17 @@ It simulates how a real coffee machine works — handling resources, taking paym
 ```
 python main.py
 ```
+
+## 📦 Data Persistence
+
+This project uses a JSON file (`data.json`) to store:
+
+- Available resources (water, milk, coffee)
+- Total profit earned
+- Transaction history
+
+This allows the coffee machine to remember its state even after the program is closed and restarted.
+
 
 ## 📸 Sample Output
 ```
@@ -132,4 +144,8 @@ Machine has successfully switch off.
 
 ## 📌 Note
 
-This project was built as part of my Python learning journey.
+This project was built as part of my Python learning journey to strengthen.
+
+## 👨‍💻 Author
+
+Built by me while learning Python and improving development skills.
