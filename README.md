@@ -1,5 +1,4 @@
-![Python Version from PEP 621 TOML](https://img.shields.io/python/required-version-toml)
-
+![Python](https://img.shields.io/badge/python-3.11-blue)
 
 # ☕ Coffee Machine Simulator
 
