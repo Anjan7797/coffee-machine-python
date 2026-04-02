@@ -1,3 +1,6 @@
+![Python Version from PEP 621 TOML](https://img.shields.io/python/required-version-toml)
+
+
 # ☕ Coffee Machine Simulator
 
 This is a simple command-line coffee machine project I built while learning Python.  
