@@ -1,4 +1,4 @@
-![Python](https://img.shields.io/badge/python-3.11-blue)
+![Python](https://img.shields.io/badge/python-3.13-blue)
 
 # ☕ Coffee Machine Simulator
 
